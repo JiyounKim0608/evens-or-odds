@@ -13,3 +13,7 @@ $ npm start
 
 Main point of this game is to learn how redux works overall and how the reading technology functions.
 
+# Demo
+
+![alt evens-or-odds]()
+
