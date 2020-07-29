@@ -15,5 +15,5 @@ Main point of this game is to learn how redux works overall and how the reading 
 
 # Demo
 
-![alt evens-or-odds]()
+![alt evens-or-odds](https://github.com/JiyounKim0608/evens-or-odds/blob/master/evens-or-odds.gif)
 
